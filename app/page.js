@@ -192,7 +192,7 @@ export default function Home() {
               <FaClock className="text-4xl text-secondary" />
               <h2 className="text-4xl font-bold text-gradient">Recent Activity</h2>
             </div>
-            <p className="text-gray-400">Keep track of your friends' achievements</p>
+            <p className="text-gray-400">Keep track of your friends&apos; achievements</p>
           </motion.div>
         </div>
         
